@@ -21,7 +21,7 @@ Design: https://dribbble.com/shots/5964475/attachments/5964475-404-Lost-in-Space
 -   fixed width and centered content (without responsive design)
 -   main title line (pseudo element)
 -   round buttons
--   social icons as fonts
+-   social icons as images
 -   copyright symbol
 
 ## Authors
