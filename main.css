@@ -29,6 +29,5 @@ main > div > p {
 footer {
     display: inline-block;
     width: 800px;
-    background-color: cornflowerblue;
     margin-left: calc((100% - 800px) / 2);
     }
