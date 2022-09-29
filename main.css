@@ -1,11 +1,29 @@
-header {
-    background-color: yellow;
-    }
 
-    main {
+header {
+    width: 800px;
+    background-color: yellow;
+    margin-left: calc((100% - 800px) / 2);
+    }
+header > h3 {
+    display: inline-block;
+}
+header > p { 
+    text-align: center;
+    display: inline;
+    background-color: aqua;
+    width: 60px;
+    float: right;
+}
+
+main {
+    width: 800px;
     background-color: aquamarine;
+    margin-left: calc((100% - 800px) / 2);
     }
     
-    footer {
+footer {
+    display: inline-block;
+    width: 800px;
     background-color: cornflowerblue;
+    margin-left: calc((100% - 800px) / 2);
     }
